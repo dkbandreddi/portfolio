@@ -5,11 +5,6 @@ body {
   font-family: 'Poppins';
 }
 
-section {
-  padding: 12em 12em 8em 12em;
-  background-color: black;
-}
-
 h1 {
   font-weight: bolder;
   font-size: 4em;
@@ -24,6 +19,12 @@ p {
 
 .hero {
   text-align: left;
+  background-image: url(../images/dinesh2.jpg);
+  background-repeat: no-repeat;
+}
+
+.left-col {
+  padding: 12em 12em 8em 12em;
 }
 
 nav {
@@ -78,14 +79,20 @@ a:hover {
 
 .logo {
   font-size: 3em;
-  color: white;
+  color: cyan;
   font-weight: bold;
   line-height: 70px;
   padding-left: 60px;
-  color: cyan;
   -webkit-box-shadow: cyan;
           box-shadow: cyan;
-  cursor: pointer;
+}
+
+.logo:hover {
+  border-radius: 3px;
+  color: cyan;
+  shadow: 0 0 5px #33ffff, 0 0 5px #66ffff;
+  -webkit-transition: .5s;
+  transition: .5s;
 }
 
 .checkbtn {
