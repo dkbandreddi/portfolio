@@ -27,19 +27,26 @@ p{
     background-image: url(../images/dinesh2.jpg);
     background-repeat: no-repeat;
     background-position: 20cm;
+    
 
 }
 .Aboutme{
+    padding: 3em 12em 15em 7em;
     text-align: left;
     background-image: url(../images/dinesh2.jpg);
     background-repeat: no-repeat;
     background-position: 20cm;
-
+    
 }
 
 .left-col{
     padding: 12em 12em 8em 12em;
     
+
+}
+.container1{
+  padding-right: 15em;
+  padding-bottom: 12em;
 
 }
 
@@ -67,6 +74,7 @@ p a{
     text-decoration: none;
 
 }
+
 
 p a:hover{
     border-radius: 3px;
