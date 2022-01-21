@@ -29,10 +29,11 @@ p {
   background-image: url(../images/dinesh2.jpg);
   background-repeat: no-repeat;
   background-position: 20cm;
+  padding-right: 25cm;
 }
 
 .Aboutme {
-  padding: 3em 12em 15em 7em;
+  padding: 3em 12em 0em 7em;
   text-align: left;
   background-image: url(../images/dinesh2.jpg);
   background-repeat: no-repeat;
@@ -44,7 +45,7 @@ p {
 }
 
 .container1 {
-  padding-right: 15em;
+  padding-right: 10em;
   padding-bottom: 12em;
 }
 
