@@ -21,6 +21,21 @@ p {
   text-align: left;
   background-image: url(../images/dinesh2.jpg);
   background-repeat: no-repeat;
+  background-position: 20cm;
+}
+
+.Work {
+  text-align: left;
+  background-image: url(../images/dinesh2.jpg);
+  background-repeat: no-repeat;
+  background-position: 20cm;
+}
+
+.Aboutme {
+  text-align: left;
+  background-image: url(../images/dinesh2.jpg);
+  background-repeat: no-repeat;
+  background-position: 20cm;
 }
 
 .left-col {
